@@ -1,14 +1,5 @@
 package br.com.djefferson;
 
-/*
-
-Organização do projeto:
-
-	MainClass: Representa uma classe cliente do MainMaxSumManager.
-	MinMaxSumAlgorithm:  Classe responsável por processar o algoritmo.
-	MinMaxOutput: Classe responsável por formatar e realizar a saída dos dados
-
-*/
 public class MainClass {
 
 	public static void main(String[] args) {
