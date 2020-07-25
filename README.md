@@ -1,8 +1,8 @@
-br.com.djefferson.MainClass: 
+MainClass: 
 - Representa uma classe cliente do MinMaxSumAlgorithm.
 
-br.com.djefferson.MinMaxSumAlgorithm:  
+MinMaxSumAlgorithm:  
 - Classe responsável por processar o algoritmo. ( Tem algumas explicações no código dessa classe )
 
-br.com.djefferson.MinMaxOutput: 
+MinMaxOutput: 
 - Classe responsável por formatar e realizar a saída dos dados
