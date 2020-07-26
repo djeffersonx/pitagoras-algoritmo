@@ -1,4 +1,4 @@
-package br.com.djefferson;
+package br.com.djefferson.v1;
 
 import java.util.List;
 import java.util.stream.Collectors;

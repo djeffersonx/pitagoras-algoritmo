@@ -1,4 +1,4 @@
-package br.com.djefferson;
+package br.com.djefferson.v1;
 
 public class MainClass {
 

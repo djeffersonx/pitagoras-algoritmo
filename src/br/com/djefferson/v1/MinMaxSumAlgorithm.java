@@ -1,4 +1,4 @@
-package br.com.djefferson;
+package br.com.djefferson.v1;
 
 import java.security.InvalidParameterException;
 import java.util.Arrays;
@@ -12,7 +12,7 @@ import java.util.List;
 public class MinMaxSumAlgorithm {
 
 	// Utilizei o nome 'v' na variável para manter o nome
-	// utilizado na especificação do problema. ( DDD feelings, liguagem úbiqua kkk )
+	// utilizado na especificação do problema.
 	private List<Integer> v;
 
 	// Mais fácil se ler o número assim, não precisamos ficar contando os zeros pra
