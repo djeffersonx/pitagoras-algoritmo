@@ -14,7 +14,7 @@ public class MainClass {
 	private static final int V_MAX_VALUE = ONE_BILLION;
 
 	public static void main(String[] args) {
-		algorithm(new Integer[] { 5, -3, 7, 8, 2 });
+		algorithm(new Integer[] { 4, -3, 7, 8, 2 });
 	}
 
 	private static void algorithm(Integer[] vInput) {
